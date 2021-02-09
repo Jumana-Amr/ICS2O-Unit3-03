@@ -1,28 +1,10 @@
 div.sticky {
-position:-webkit-sticky;
-  position:sticky;
+  position: -webkit-sticky;
+  position: sticky;
   font-size:20px;
   text-align:center;
   top: 0;
   padding:5px;
   background-color:darkturquoise;
   border:3px solid deeppink;
-}
-div.relative {
-  position: relative;
-  width:200px;
-  height:100px;
-} 
-div.absolute {
-  position:absolute;
-  top:0px;
-  left:900px;
-  width:200px;
-  height:100px;
-}
-img {
-  position:absolute;
-  left:300px;
-  top:2000px;
-  z-index:0;
 }
