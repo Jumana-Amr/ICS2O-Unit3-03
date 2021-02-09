@@ -1,10 +1,10 @@
 div.sticky {
   position: -webkit-sticky;
   position: sticky;
-  font-size:20px;
-  text-align:center;
+  font-size: 20px;
+  text-align: center;
   top: 0;
-  padding:5px;
-  background-color:darkturquoise;
-  border:3px solid deeppink;
+  padding: 5px;
+  background-color: darkturquoise;
+  border: 3px solid deeppink;
 }
