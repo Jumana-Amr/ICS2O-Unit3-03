@@ -8,12 +8,14 @@ div.sticky {
   background-color: darkturquoise;
   border: 3px solid deeppink;
 }
+
 img {
   position: absolute;
   left: 300px;
   top: 2000px;
   z-index: 0;
 }
+
 div.relative {
   position: relative;
   width: 200px;
