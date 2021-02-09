@@ -8,3 +8,20 @@ div.sticky {
   background-color: darkturquoise;
   border: 3px solid deeppink;
 }
+img {
+  position: absolute;
+  left: 300px;
+  top: 2000px;
+  z-index: 0;
+}
+div.relative {
+  position: relative;
+  width: 200px;
+  height: 100px;
+} 
+div.absolute {
+  position: absolute;
+  top: 0px;
+  left: 900px;
+  width: 200px;
+  height: 100px;
