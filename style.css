@@ -18,11 +18,4 @@ div.relative {
   position: relative;
   width: 200px;
   height: 100px;
-} 
-div.absolute {
-  position: absolute;
-  top: 0px;
-  left: 900px;
-  width: 200px;
-  height: 100px;
 }
