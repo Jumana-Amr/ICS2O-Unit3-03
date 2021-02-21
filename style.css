@@ -1,5 +1,5 @@
 .title {
-  border: 2px solid #33CCCC;
+  border: 2px solid #33cccc;
   background-color: #9999ff;
   text-align: center;
   position: fixed;
@@ -14,7 +14,7 @@
 
 .left {
   float: left;
-  border: 2px solid #33cccc;
+  border: 2px solid #0dc9C0;
   margin-top: 150px;
   width: 200px;
   text-align: center;
@@ -23,7 +23,7 @@
 
 .right {
   float: right;
-  border: 2px solid #9999ff;
+  border: 2px solid #ff01b0;
   margin-top: 150px;
   width: 200px;
   text-align: center;
