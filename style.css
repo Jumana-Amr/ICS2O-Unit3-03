@@ -1,6 +1,6 @@
 .title {
-  border: 2px solid #33cccc;
-  background-color: #9999ff;
+  border: 2px solid #3cc;
+  background-color: #99f;
   text-align: center;
   position: fixed;
   position: -webkit-sticky;
@@ -14,7 +14,7 @@
 
 .left {
   float: left;
-  border: 2px solid #0dc9C0;
+  border: 2px solid #0dc9c0;
   margin-top: 150px;
   width: 200px;
   text-align: center;
