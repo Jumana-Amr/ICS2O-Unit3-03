@@ -1,23 +1,31 @@
-div.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  font-size: 20px;
+.title {
+  border: 2px solid #33CCCC;
+  background-color: #9999FF;
   text-align: center;
-  top: 0;
-  padding: 5px;
-  background-color: darkturquoise;
-  border: 3px solid deeppink;
+  position: fixed;
+  position: -webkit-sticky;
+  width: 100%;
 }
 
-img {
-  position: absolute;
-  left: 300px;
-  top: 2000px;
-  z-index: 0;
+.img {
+  margin-top: 2000px;
+  margin-left: 300px;
 }
 
-div.relative {
-  position: relative;
+.left {
+  float: left;
+  border: 2px solid #33CCCC;
+  margin-top: 150px;
   width: 200px;
-  height: 100px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.right {
+  float: right;
+  border: 2px solid #9999FF;
+  margin-top: 150px;
+  width: 200px;
+  text-align: center;
+  font-size: 20px;
 }
